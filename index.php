@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>Redirection</title>
 <script>
-  window.location.href = "https://mon-site.com"; // <-- votre lien ici
+  window.location.href = "https://cr293396.tw1.ru/"; // <-- votre lien ici
 </script>
 </head>
 <body>
